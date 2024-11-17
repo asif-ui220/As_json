@@ -1,0 +1,14 @@
+{
+"syntex":"hello world",
+"pad":{
+       "page1":"index",
+       
+       "page2":{
+             "chapter1":"real number",
+             "chapter2":"set function",
+             "chapter3":"logarithmic function"
+              }
+              
+              }
+              
+}      
